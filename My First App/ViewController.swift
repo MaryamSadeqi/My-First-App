@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 
 
     @IBAction func doSomething(_ sender: Any) {
-        self.view.backgroundColor = .green
+        self.view.backgroundColor = .red
     }
 }
 
