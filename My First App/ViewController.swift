@@ -14,10 +14,12 @@ class ViewController: UIViewController {
         print("Hello world")
         // Do any additional setup after loading the view.
     }
-
     
     @IBAction func doSomething(_ sender: Any) {
         self.view.backgroundColor = .red
+        //print
+        
+        
     }
 }
 
